@@ -1,0 +1,7 @@
+,Soru→Cevap Top-1,Soru→Cevap Top-5,Cevap→Soru Top-1,Cevap→Soru Top-5,Ortalama Top-1,Ortalama Top-5
+ibm-granite/granite-embedding-107m-multilingual,0.907,0.958,0.936,0.977,0.9215,0.9675
+Alibaba-NLP/gte-multilingual-base,0.905,0.938,0.961,0.981,0.933,0.9595
+ytu-ce-cosmos/turkish-colbert,0.69,0.803,0.668,0.881,0.679,0.8420000000000001
+intfloat/multilingual-e5-small,0.962,0.984,0.967,0.988,0.9644999999999999,0.986
+sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2,0.904,0.957,0.885,0.947,0.8945000000000001,0.952
+sentence-transformers/paraphrase-multilingual-mpnet-base-v2,0.902,0.957,0.934,0.969,0.918,0.963
